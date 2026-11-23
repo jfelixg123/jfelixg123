@@ -1,0 +1,49 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="400" height="272" viewBox="0 0 400 272" role="img" aria-labelledby="title description">
+  <title id="title">Integraciones y datos</title>
+  <desc id="description">Número de proyectos en una escala de 0 a 3. Docker: 2, GitHub Actions: 2, Stripe: 1, n8n: 1, Spark/Superset: 1.</desc>
+  <style>
+    .panel { fill: #161b22; stroke: #3d444d; }
+    .grid { stroke: #59636e; }
+    .text { fill: #f0f6fc; }
+    .muted { fill: #b1bac4; }
+    .area { fill: #c4a3ff; stroke: #c4a3ff; }
+    .dot { fill: #c4a3ff; }
+    @media (prefers-color-scheme: light) {
+      .panel { fill: #fbfcfe; stroke: #c4cbd4; }
+      .grid { stroke: #828c9a; }
+      .text { fill: #1f2328; }
+      .muted { fill: #4a5563; }
+      .area { fill: #6f36b5; stroke: #6f36b5; }
+      .dot { fill: #6f36b5; }
+    }
+  </style>
+  <rect class="panel" x="1" y="1" width="398" height="270" rx="14" fill="#161b22" stroke="#3d444d"/>
+  <g font-family="ui-monospace, SFMono-Regular, Consolas, monospace">
+    <text class="text" x="18" y="31" fill="#f0f6fc" font-size="17" font-weight="700">Integraciones y datos</text>
+    <text class="muted" x="382" y="31" text-anchor="end" fill="#b1bac4" font-size="12">0–3 proyectos</text>
+  </g>
+  <path class="grid" d="M18 45h364" fill="none" stroke="#59636e"/>
+  <g class="grid" stroke="#59636e" stroke-width="1" fill="none">
+    <polygon points="200.0,141.7 221.2,157.1 213.1,182.1 186.9,182.1 178.8,157.1"/>
+    <polygon points="200.0,119.3 242.5,150.2 226.3,200.1 173.7,200.1 157.5,150.2"/>
+    <polygon points="200.0,97.0 263.7,143.3 239.4,218.2 160.6,218.2 136.3,143.3"/>
+    <line x1="200" y1="164" x2="200.0" y2="97.0"/>
+    <line x1="200" y1="164" x2="263.7" y2="143.3"/>
+    <line x1="200" y1="164" x2="239.4" y2="218.2"/>
+    <line x1="200" y1="164" x2="160.6" y2="218.2"/>
+    <line x1="200" y1="164" x2="136.3" y2="143.3"/>
+  </g>
+  <polygon class="area" points="200.0,119.3 242.5,150.2 213.1,182.1 186.9,182.1 178.8,157.1" fill="#c4a3ff" stroke="#c4a3ff" fill-opacity=".25" stroke-width="2"/>
+  <circle class="dot" cx="200.0" cy="119.3" r="3.4" fill="#c4a3ff"/>
+  <circle class="dot" cx="242.5" cy="150.2" r="3.4" fill="#c4a3ff"/>
+  <circle class="dot" cx="213.1" cy="182.1" r="3.4" fill="#c4a3ff"/>
+  <circle class="dot" cx="186.9" cy="182.1" r="3.4" fill="#c4a3ff"/>
+  <circle class="dot" cx="178.8" cy="157.1" r="3.4" fill="#c4a3ff"/>
+  <g class="text" fill="#f0f6fc" font-family="ui-monospace, SFMono-Regular, Consolas, monospace" font-size="12">
+    <text x="200" y="80" text-anchor="middle">Docker · 2</text>
+    <text x="260" y="131" text-anchor="start">GitHub Actions · 2</text>
+    <text x="250" y="242" text-anchor="start">Stripe · 1</text>
+    <text x="150" y="242" text-anchor="end">n8n · 1</text>
+    <text x="140" y="131" text-anchor="end">Spark/Superset · 1</text>
+  </g>
+</svg>
