@@ -6,7 +6,7 @@
          alt="Jean Felix Guevara · Full Stack Developer">
   </a>
 </p>
-
+#
 ## `$ whoami`
 
 Desarrollo aplicaciones web con Laravel y Vue. En mis proyectos he trabajado
