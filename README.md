@@ -1,5 +1,5 @@
-# ![Banner de Jeancarlos Félix Guevara, desarrollador full stack](./banner.png)
-
+![Banner de Jeancarlos Félix Guevara, desarrollador full stack](./banner.png)
+#
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&pause=1000&color=F7130E&background=24AE3E00&width=435&lines=Jean+felix+Guevara+%C2%B7+Full+Stack+Developer;Lavarel+%2B+Vue;n8n+%C2%B7+Stripe+%C2%B7+Superset+%C2%B7+Spark)](https://git.io/typing-svg)
 
 ## `$ whoami`
