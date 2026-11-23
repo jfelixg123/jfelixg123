@@ -1,6 +1,11 @@
 ![Banner de Jeancarlos Félix Guevara, desarrollador full stack](./banner.jpg)
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&pause=1000&color=F7130E&background=24AE3E00&width=435&lines=Jean+felix+Guevara+%C2%B7+Full+Stack+Developer;Lavarel+%2B+Vue;n8n+%C2%B7+Stripe+%C2%B7+Superset+%C2%B7+Spark)](https://git.io/typing-svg)
+<p align="center">
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&amp;weight=500&amp;pause=1000&amp;color=F7130E&amp;background=24AE3E00&amp;width=560&amp;center=true&amp;lines=Jean+Felix+Guevara+%C2%B7+Full+Stack+Developer;Laravel+%2B+Vue;n8n+%C2%B7+Stripe+%C2%B7+Superset+%C2%B7+Spark"
+         alt="Jean Felix Guevara · Full Stack Developer">
+  </a>
+</p>
 
 ## `$ whoami`
 
