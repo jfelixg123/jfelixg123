@@ -1,6 +1,6 @@
 <div align="center">
   <a href="https://github.com/jfelixg123">
-    <img src="./banner.jpg" width="960" alt="Jeancarlos Félix Guevara, desarrollador full stack">
+    <img src="./assets/banner.jpg" width="960" alt="Jeancarlos Félix Guevara, desarrollador full stack">
   </a>
   <br>
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&amp;weight=600&amp;size=23&amp;duration=2600&amp;pause=1000&amp;color=DE3737&amp;center=true&amp;vCenter=true&amp;width=720&amp;lines=Jeancarlos+F%C3%A9lix+Guevara+%C2%B7+Full+Stack+Developer%3BPHP+%2F+Laravel+%C2%B7+JavaScript+%2F+Vue%3BAPIs+REST+%C2%B7+MySQL+%C2%B7+Docker"
@@ -13,7 +13,7 @@
 ## `$ whoaim`
 
 <p align="center">
-  <img src="./banner_whoiam.jpg" width="960"
+  <img src="./assets/banner-whoami-terminal.svg" width="960"
        alt="Full Stack con Laravel y Vue. APIs REST, MySQL, integración de pagos y despliegues con Docker.">
 </p>
 
